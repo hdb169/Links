@@ -1,0 +1,7 @@
+single arm experiments are good for electron scattering, and detecting those scattered electrons. If we 
+wish to detect the hadrons, the photo-production (bremsstrahlung) due to electron-target interaction contribute to the 
+hadron production. This means that photo-produced hadrons may dominate over the electro-produced hadrons. But, 
+in coincidence experiments, the rate of photo-production might be small, and still so detected hadrons contribute to 
+accidental coincidences beacuse we wont have coincident with scattered electron for such hadrons. We subtract those 
+accidental coincidences. In coin expt, we tag the produced hadron with scatterd electrons, and get more pure 
+electro-produced hadrons.
