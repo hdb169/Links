@@ -1,0 +1,5 @@
+Swif2
+my_analysis
+./hcswif.py --mode replay --spectrometer COIN --run 7820 6020 6111 7796 --events 11111 --name swif2Name --account hallc
+swif2 import -file json_file_path/swif2Name.json
+swif2 run swif2Name
