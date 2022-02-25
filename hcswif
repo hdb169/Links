@@ -1,5 +1,10 @@
+https://github.com/JeffersonLab/hcswif
 Swif2
 my_analysis
 ./hcswif.py --mode replay --spectrometer COIN --run 7820 6020 6111 7796 --events 11111 --name swif2Name --account hallc
 swif2 import -file json_file_path/swif2Name.json
 swif2 run swif2Name
+================
+./hcswif.py --mode replay --spectrometer COIN --run 7820 6020 6111 7796 --events -1 --name swif2Name --account hallc 
+--disk 1000000000 --ram 1000000000 --cpu 1
+
