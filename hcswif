@@ -8,3 +8,21 @@ swif2 run swif2Name
 ./hcswif.py --mode replay --spectrometer COIN --run 7820 6020 6111 7796 --events -1 --name swif2Name --account hallc 
 --disk 1000000000 --ram 1000000000 --cpu 1
 
+
+To see the list: swi2 list
+To see how many problamatic Jobs: swif2 status jobname -summary
+This shows how many job succeed and how many failed and also the reason of failure
+To re-run the faiiled jobs:
+
+retry-jobs xxxx1 -problems SITE_PREP_FAIL
+retry-jobs xxxx1 -problems SLURM_FAILED
+retry-jobs xxxx2 -problems SWIF_SYSTEM_ERROR
+
+These are just examples of problems, so after looking for the problems, state that problem only in above line
+================================
+More instructions are here in HallD wiki(replace swif by swif2)
+
+https://halldweb.jlab.org/wiki/index.php/DEPRECATED_Offline_Monitoring_Archived_Data
+
+and hallc hcswif:
+https://github.com/JeffersonLab/hcswif
