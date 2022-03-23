@@ -21,8 +21,11 @@ To re-run the faiiled jobs:
 swif2 retry-jobs xxxx1 -problems SITE_PREP_FAIL
 swif2 retry-jobs xxxx1 -problems SLURM_FAILED
 swif2 retry-jobs xxxx2 -problems SWIF_SYSTEM_ERROR
-
+==================================
 These are just examples of problems, so after looking for the problems, state that problem only in above line
+
+HALL D WIKI
+https://halldweb.jlab.org/wiki/index.php/DEPRECATED_Offline_Monitoring_Archived_Data
 ================================
 swif2 More instructions are here in HallD wiki(replace swif by swif2)
 
