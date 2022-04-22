@@ -13,14 +13,16 @@ To see the list: swi2 list
 To see how many problamatic Jobs: 
 
 swif2 status jobname -summary
+swif2 status csv_simc -summary
+16
 
 
 This shows how many job succeed and how many failed and also the reason of failure
 To re-run the faiiled jobs:
 
-swif2 retry-jobs xxxx1 -problems SITE_PREP_FAIL
-swif2 retry-jobs xxxx1 -problems SLURM_FAILED
-swif2 retry-jobs xxxx2 -problems SWIF_SYSTEM_ERROR
+swif2 retry-jobs csv_simc -problems SITE_PREP_FAIL
+swif2 retry-jobs csv_simc -problems SLURM_FAILED
+swif2 retry-jobs csv_simc -problems SWIF_SYSTEM_ERROR
 ==================================
 These are just examples of problems, so after looking for the problems, state that problem only in above line
 
