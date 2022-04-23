@@ -14,7 +14,7 @@ To see how many problamatic Jobs:
 
 swif2 status jobname -summary
 swif2 status csv_simc -summary
-16
+
 
 
 This shows how many job succeed and how many failed and also the reason of failure
