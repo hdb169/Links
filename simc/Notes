@@ -60,3 +60,26 @@ rw-r--r-- 1 hdbhatt c-cvs  21M Apr 26 21:54 csv_90_D2_pos_exc_rad.bin
 -rw-r--r-- 1 hdbhatt c-cvs 687K Apr 26 10:49 csv_720_H2_neg_rho.root
 -rw-r--r-- 1 hdbhatt c-cvs 545K Apr 27 01:37 csv_670_H2_neg_rho.bin
 -rw-r--r-- 1 hdbhatt c-cvs 297K Apr 27 01:37 csv_80_H2_neg_rho.bin
+========================================================================
+The following Rho rootfiles could be replaced by their opposite polarity if they have 25K events
+ 17M Apr 27 01:37 csv_520_H2_neg_rho.bin
+-rw-r--r-- 1 hdbhatt c-cvs  15M Apr 27 01:37 csv_770_H2_neg_rho.bin
+-rw-r--r-- 1 hdbhatt c-cvs  15M Apr 27 01:37 csv_870_D2_pos_rho.bin
+-rw-r--r-- 1 hdbhatt c-cvs  15M Apr 27 01:37 csv_100_D2_pos_rho.bin
+-rw-r--r-- 1 hdbhatt c-cvs  14M Apr 27 01:37 csv_890_D2_pos_rho.bin
+-rw-r--r-- 1 hdbhatt c-cvs  14M Apr 27 01:37 csv_860_D2_pos_rho.bin
+-rw-r--r-- 1 hdbhatt c-cvs  13M Apr 27 01:37 csv_880_D2_pos_rho.bin
+-rw-r--r-- 1 hdbhatt c-cvs  12M Apr 27 01:37 csv_690_H2_neg_rho.bin
+-rw-r--r-- 1 hdbhatt c-cvs  11M Apr 26 01:26 csv_120_H2_pos_rho.bin
+-rw-r--r-- 1 hdbhatt c-cvs  11M Apr 25 04:02 csv_590_H2_pos_rho.bin
+-rw-r--r-- 1 hdbhatt c-cvs 7.2M Apr 26 01:26 csv_70_H2_pos_rho.bin
+-rw-r--r-- 1 hdbhatt c-cvs 6.8M Apr 22 08:32 csv_160_H2_pos_rho.bin
+-rw-r--r-- 1 hdbhatt c-cvs 6.5M Apr 26 01:26 csv_140_H2_neg_rho.bin
+-rw-r--r-- 1 hdbhatt c-cvs 3.8M Apr 27 16:06 csv_720_H2_neg_rho.bin
+-rw-r--r-- 1 hdbhatt c-cvs 3.4M Apr 27 01:37 csv_680_H2_neg_rho.bin
+-rw-r--r-- 1 hdbhatt c-cvs 2.9M Apr 26 01:26 csv_90_H2_neg_rho.bin
+-rw-r--r-- 1 hdbhatt c-cvs 2.7M Apr 27 16:06 csv_730_H2_neg_rho.bin
+-rw-r--r-- 1 hdbhatt c-cvs 545K Apr 27 01:37 csv_670_H2_neg_rho.bin
+-rw-r--r-- 1 hdbhatt c-cvs 297K Apr 27 01:37 csv_80_H2_neg_rho.bin
+
+
