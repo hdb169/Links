@@ -1,10 +1,10 @@
 test_csv_930_H2_neg_exc_rad.inp
 
-From H2_pos=> Exclusive Pion+ Production is not possible
+From H2_pos=> Exclusive Pion- Production is not possible
 
-But from test_csv_930_H2_neg_exc_rad.inp
+But from test_csv_930_H2_pos_exc_rad.inp
 
-it is possible to get pi-
+it is possible to get pi+
 
 =======================unfinished Replays=============April 26/22
 rw-r--r-- 1 hdbhatt c-cvs  21M Apr 26 21:54 csv_90_D2_pos_exc_rad.bin
