@@ -1,6 +1,6 @@
 test_csv_930_H2_neg_exc_rad.inp
 
-From H2_pos=> Exclusive Pion- Production is not possible
+From H2_neg=> Exclusive Pion- Production is not possible
 
 But from test_csv_930_H2_pos_exc_rad.inp
 
