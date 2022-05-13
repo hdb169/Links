@@ -5,3 +5,7 @@ in coincidence experiments, the rate of photo-production might be small, and sti
 accidental coincidences beacuse we wont have coincident with scattered electron for such hadrons. We subtract those 
 accidental coincidences. In coin expt, we tag the produced hadron with scatterd electrons, and get more pure 
 electro-produced hadrons.
+
+
+
+Note: Run 6106 was places in Dummy, in json file, but it is H2 run: See Log Entry :  3624256
