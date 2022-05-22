@@ -1,0 +1,7 @@
+To list largest size folders in UBUNTU:
+================================================
+First login as sudo. 
+sudo -i
+give Passwd ...........
+This will tell you size and  usual time as well...................
+sudo du -a / 2>/dev/null | sort -n -r | head -n 20
