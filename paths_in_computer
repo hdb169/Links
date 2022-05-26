@@ -2,3 +2,10 @@ LHAPDF Laptop:
 /home/hdbhatt/Downloads/LHAPDF-6.4.0/
 
 lhapdf -h --listdir LISTDIR --pdfdir PDFDIR --source SOURCES
+
+LHAPDF Python Jupyter notebook examples: /Desktop/csv_notebook$
+================================================================
+1) parameterization.ipynb
+2) b_x_z.ipynb
+3)
+
