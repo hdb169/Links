@@ -6,6 +6,11 @@ accidental coincidences beacuse we wont have coincident with scattered electron 
 accidental coincidences. In coin expt, we tag the produced hadron with scatterd electrons, and get more pure 
 electro-produced hadrons.
 
-
+If you scatter an electron off of something - you get an electron - or possibly
+an electron neutrino. But when you scatter off a proton, you can either get a
+proton out (elastic scattering) or a neutron (quasi-elastic scattering) or a
+bunch of hadrons (inelastic scattering).
+Since the proton breaks up, it must be composite. So maybe we can probe
+the stuff inside using electron, muons and neutrinos
 
 Note: Run 6106 was places in Dummy, in json file, but it is H2 run: See Log Entry :  3624256
