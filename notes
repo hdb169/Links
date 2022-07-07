@@ -14,3 +14,12 @@ Since the proton breaks up, it must be composite. So maybe we can probe
 the stuff inside using electron, muons and neutrinos
 
 Note: Run 6106 was places in Dummy, in json file, but it is H2 run: See Log Entry :  3624256
+
+===========================================================================================================
+    TH1F *histpt = new TH1F("histpt","pt (GeV);Pt (GeV);Counts",20,0,0.4);
+    TH2F *sighad_vs_z = new TH2F("sighad_vs_z","sighad_vs_z;Z;Sighad ",20,0,1,20,0,1.2);
+
+    
+    cout<<"bins = "<<histpt->GetNbinsX()<<endl;
+    cout<<"bins = "<<sighad_vs_z->GetNbinsX()<<endl;
+
