@@ -22,4 +22,7 @@ Note: Run 6106 was places in Dummy, in json file, but it is H2 run: See Log Entr
     
     cout<<"bins = "<<histpt->GetNbinsX()<<endl;
     cout<<"bins = "<<sighad_vs_z->GetNbinsX()<<endl;
-
+    ==============================
+    read_any_paper by DOI
+    
+https://sci-hub.se/
