@@ -26,3 +26,7 @@ Note: Run 6106 was places in Dummy, in json file, but it is H2 run: See Log Entr
     read_any_paper by DOI
     
 https://sci-hub.se/
+=============
+Target Density 1.69 gm per cc (liquid) vs 0.179 per leter (gas).
+This is why we need liquified D2 or H2, which is highly dense and any heating effect should be avoided by supplying very cold (2K) supply of H2 or D2.
+The inefficiency due to boiling has to be taken into account.
