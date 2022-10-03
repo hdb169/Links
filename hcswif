@@ -33,6 +33,10 @@ go to scicomp.jlab.org and read the problem and if DISK requested is
 smaller than actual needed then add disk
 =========>
 swif2 modify-jobs xxxx -ram add 8gb -problems SITE_PREP_FAIL
+swif2 retry-jobs xxxx -problems SITE_PREP_FAIL
+(lets see if it works, so far not sure)
+
+
 
 ==================================
 These are just examples of problems, so after looking for the problems, state that problem only in above line
