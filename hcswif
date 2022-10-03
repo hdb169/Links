@@ -34,7 +34,13 @@ smaller than actual needed then add disk
 =========>
 swif2 modify-jobs xxxx -ram add 8gb -problems SITE_PREP_FAIL
 swif2 retry-jobs xxxx -problems SITE_PREP_FAIL
-(lets see if it works, so far not sure)
+(lets see if it works, so far not sure: it did not work??)
+=====>oct 03, 2022
+om scicomp.jlab.org: click on job state, and it lists all the problemistic runs, and
+copy and paste to libra office, and remove the first words, and just keep the run numbers,
+and convert the column to row (https://www.browserling.com/tools/text-columns-to-rows), and resubmitted
+job with 20 gb disk and 20 gb Ram, lets see if it is too much.
+/u/group/c-csv/hdbhatt/my_analysis/hcswif> ./hcswif.py --mode replay --spectrometer COIN --run 6018 6019 6020 6021 6030 6031 6032 6033 6034 6038 6039 6044 6054 6061 6063 6064 6065 6066 6068 6070 6071 6073 6082 6083 6084 6086 6088 6089 6090 6091 6093 6099 6102 6115 6122 6123 6124 6125 6136 6137 6138 6139 6140 6141 6144 6145 6170 6171 6177 6178 6179 6180 6185 6186 6187 6188 6189 6190 6194 6195 6198 6199 6200 6201 6202 6205 6209 6219 6245 6248 6249 6250 6257 6259 6266 6267 6270 6271 6272 6281 6282 6284 6286 6290 6292 6293 6299 6301 6302 6307 6308 6309 6322 6325 6331 6332 6342 6343 6348 6349 6350 6355 6356 6357 6375 6376 6377 6378 6379 6380 6387 6388 6394 6395 6398 6402 6403 6404 6415 6419 6421 6430 6434 6435 6459 6461 6462 6465 6466 6467 6486 6489 6490 6493 6497 6498 6499 6500 6501 6506 6507 6509 6510 6515 6517 6519 6524 6528 6529 6535 6536 6537 6541 6542 6543 6545 6548 6549 6550 6551 7608 7609 7611 7612 7613 7614 7615 7669 7670 7671 7672 7679 7680 7681 7682 7689 7699 7702 7737 7738 7740 7757 7758 7759 7798 7799 7805 7806 7814 --events -1 --name xxxx_1 --account hallc --disk 20000000000 --ram 20000000000 --cpu 1
 
 
 
