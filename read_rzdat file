@@ -1,0 +1,20 @@
+|/w/hallc-scshelf2102/c-sidis18/bosted/simcntup> pawX11 
+ ******************************************************
+ *                                                    *
+ *            W E L C O M E    to   P A W             *
+ *                                                    *
+ *       Version 2.14/04      12 January 2004         *
+ *                                                    *
+ ******************************************************
+ Workstation type (?=HELP) <CR>=1 : 
+ Version 1.29/03 of HIGZ started
+ *** No default PAWLOGON file "/home/hdbhatt/.pawlogon.kumac" found
+
+PAW > hi/file simc_6142_p_rad.rzdat 
+File name (<CR>=) 
+ *** Break *** Keyboard interrupt
+ Longjump 
+PAW > hi/file 1 simc_6142_p_rad.rzdat
+PAW > nt/pl 666.missmass
+PAW > nt/pl 666.missmass Weight
+PAW > Killed
