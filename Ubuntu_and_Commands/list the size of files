@@ -1,0 +1,11 @@
+du -ah --block-size=1G --max-depth=1 | sort -rh
+To handle this situation, you can modify the command slightly to limit 
+the depth of the directory traversal. For example, you can specify 
+a specific directory or limit the depth using the --max-depth option. Here's an example:
+
+**du -ah --block-size=1G --max-depth=1 | sort -rh**
+
+In this command, --max-depth=1 limits the depth of the directory traversal to 1 level.
+You can adjust the value as per your requirement.
+This modified command will list the files in the specified directory (or the current directory if no directory is specified), 
+sorted from the biggest size to the smallest size, with the sizes displayed in GB.
